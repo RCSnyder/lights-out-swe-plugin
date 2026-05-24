@@ -1,0 +1,12 @@
+{
+  "name": "lo-swe",
+  "description": "Autonomous, gated software-engineering pipeline. Drives a project from intent to deployed software through machine-checkable phase gates, with full provenance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "R. Cooper Snyder"
+  },
+  "license": "MIT",
+  "agents": "agents/",
+  "skills": "skills/",
+  "commands": "commands/"
+}

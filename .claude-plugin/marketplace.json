@@ -1,0 +1,18 @@
+{
+  "name": "lo-swe",
+  "owner": {
+    "name": "R. Cooper Snyder"
+  },
+  "metadata": {
+    "description": "Autonomous, gated software-engineering pipeline for AI coding agents.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "lo-swe",
+      "description": "Autonomous, gated software-engineering pipeline. EXPAND > DESIGN > ANALYZE > BUILD > REVIEW > RECONCILE > VERIFY > DEPLOY, with provenance in scaffolding/.",
+      "version": "1.0.0",
+      "source": "."
+    }
+  ]
+}
