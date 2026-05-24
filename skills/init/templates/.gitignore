@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.eggs/
+*.egg-info/
+
+# Rust
+target/
+
+# Node
+node_modules/
+
+# Go
+/vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# General
+.env
+.DS_Store
+*.log
